@@ -12,7 +12,7 @@ b) 4. Mein Terminal Git Bash unter Windows geöffnet
 
    5. ls ~/.ssh/
    
-   - verfügbare SSH-Schlüssel überprüft
+      - verfügbare SSH-Schlüssel überprüft
 
 
 c) Schritte zum lokalen Klonen des Repositorys, zum Konfigurieren von Git und zum Erstellen der initialen Commits
