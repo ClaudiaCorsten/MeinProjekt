@@ -17,9 +17,9 @@ b) 4. Mein Terminal Git Bash unter Windows geöffnet
 
 c) Schritte zum lokalen Klonen des Repositorys, zum Konfigurieren von Git und zum Erstellen der initialen Commits
 
-   8. cd teilprüfung
+   8. cd TP1
    
-      - in Verzeichnes "Teilprüfung" gewechselt, in dem das Git-Repository erstellt werden soll
+      - in Verzeichnes "TP1" gewechselt, in dem das Git-Repository erstellt werden soll
    
    9. git clone https://github.com/ClaudiaCorsten/MeinProjekt.git
    
